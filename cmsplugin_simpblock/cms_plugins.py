@@ -16,4 +16,3 @@ class CMSSimpblockPlugin(CMSPluginBase):
 
 
 plugin_pool.register_plugin(CMSSimpblockPlugin)
-
