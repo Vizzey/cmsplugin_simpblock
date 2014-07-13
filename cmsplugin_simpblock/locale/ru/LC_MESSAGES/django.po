@@ -26,9 +26,13 @@ msgid "Image"
 msgstr "Изображение"
 
 #: models.py:7
+msgid "Title"
+msgstr "Заголовок"
+
+#: models.py:8
 msgid "Link"
 msgstr "Ссылка"
 
-#: models.py:8
+#: models.py:9
 msgid "Text"
 msgstr "Текст"
